@@ -1,0 +1,22 @@
+{
+    "name": "Timestamp Microservice",
+    "version": "1.0.0",
+    "description": "A timestamp microservice for fcc",
+    "main": "index.js",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.14.1"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "timestamp",
+        "utc",
+        "express",
+        "node"
+    ],
+    "author": "Fabian Fleitas",
+    "license": "MIT"
+
+}
